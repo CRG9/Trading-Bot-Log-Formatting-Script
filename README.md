@@ -6,8 +6,6 @@ A Node.js script to parse, format, and enhance the readability of raw json log f
 
 Trading bots can produce large volumes of log data that are difficult to parse manually. This script provides a simple and effective way to process those raw logs and transform them into a structured, human-readable format. It can extract key decisions like trade entry, zone cancellation, and status updates, making it easier to analyze the bot's performance and troubleshoot issues to optimize performance.
 
-Trading bots can produce large volumes of log data that are difficult to parse manually. This script provides a simple and effective way to process those raw logs and transform them into a structured, human-readable format. It can extract key decisins like trade entry, zone cancellation, and status updates, making it easier to analyze the bot's performance and troubleshoot issues to optimize performance.
-
 ## Features
 
 *   **Log Parsing**: Ingests raw text-based json log files outputted by a trading bot.
