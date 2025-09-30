@@ -1,0 +1,41 @@
+{
+  "currentMarketStructure": "BULLISH",
+  "orderVolume": 77,
+  "indecisionCandle": {
+    "isIndecisive": false,
+    "open": 1.17262,
+    "close": 1.17225,
+    "high": 1.17262,
+    "low": 1.17141
+  },
+  "confluence": {
+    "M5": {
+      "isIndecisive": false,
+      "open": 1.17262,
+      "close": 1.17225,
+      "high": 1.17262,
+      "low": 1.17141
+    },
+    "M1": {
+      "isIndecisive": false,
+      "open": 1.17262,
+      "close": 1.17225,
+      "high": 1.17262,
+      "low": 1.17141
+    }
+  },
+  "imbalances": {
+    "1": { "bids": [0, 0, 21, 11, 2], "asks": [4, 1, 34, 1, 3] },
+    "2": { "bids": [8, 25, 50, 1], "asks": [9, 21, 2, 0] },
+    "3": { "bids": [10, 37, 4], "asks": [7, 4, 0] },
+    "4": { "bids": [9, 5, 24, 6], "asks": [1, 7, 5, 0] }
+  },
+  "limitOrder": {
+    "limitPrice": 1.17141,
+    "takeProfit": 1.16801,
+    "stopLoss": 1.17312,
+    "zonePips": 12,
+    "takeProfitPips": 34,
+    "stopLossPips": 5
+  }
+}
