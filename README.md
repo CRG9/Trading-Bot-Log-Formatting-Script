@@ -8,9 +8,9 @@ Trading bots can produce large volumes of log data that are difficult to parse m
 
 ## Features
 
-*   **Log Parsing**: Ingests raw text-based json log files outputted by a trading bot.
+*   **Log Parsing**: Ingests raw text-based json log files and png files outputted by a trading bot.
 *   **Data Extraction**: Pulls out important information such as timestamps, trade details (buy/sell orders, price, volume), errors, and performance metrics.
-*   **Visual Outputs**: Formats the extracted data into clean, organized formats png files that combine json log data and trading chart images..
+*   **Visual Outputs**: Formats the extracted data into clean, organized png files that combine json log data and trading chart images into one organized visual for analysis.
 *   **Flexible Input**: Process log files from multiple folders at once.
 *   **Date Range Filtering**: Generate reports for a specific period by providing start and end dates.
 
